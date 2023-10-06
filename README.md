@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saadsulmi@gmail.com**
 
-- 📄 Know about my experiences [https://saadsulmi.github.io/Saad-portfolio1/](https://saadsulmi.github.io/Saad-portfolio1/)
+- 📄 Know about my experiences [https://saadsulmi.live])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
