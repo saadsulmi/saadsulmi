@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Sulmi M</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on **my third project on react**
+- 🔭 I’m currently working on **my third project on Next Js**
 
 - 🌱 I’m currently learning **React**
 
