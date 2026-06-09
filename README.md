@@ -49,5 +49,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadsulmi&show_icons=true&locale=en&layout=compact" alt="saadsulmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadsulmi&" alt="saadsulmi" /></p>
